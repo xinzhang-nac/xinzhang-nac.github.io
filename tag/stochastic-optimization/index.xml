@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Optimization | xinzhang-nac</title>
+    <link>https://example.com/tag/stochastic-optimization/</link>
+      <atom:link href="https://example.com/tag/stochastic-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic Optimization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Stochastic Optimization</title>
+      <link>https://example.com/tag/stochastic-optimization/</link>
+    </image>
+    
+    <item>
+      <title>INTERACT: Achieving Low Sample and Communication Complexities in Decentralized Bilevel Learning over Networks</title>
+      <link>https://example.com/publication/conference-paper/liu2022interact/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022interact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NET-FLEET: Achieving linear convergence speedup for fully decentralized federated learning with heterogeneous data</title>
+      <link>https://example.com/publication/conference-paper/zhang2022net/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2022net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNTHESIS: A semi-asynchronous path-integrated stochastic gradient method for distributed learning in computing clusters</title>
+      <link>https://example.com/publication/conference-paper/liu2022synthesis/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGDA: Achieving O(ε−2) Communication Complexity in Federated Min-Max Learning</title>
+      <link>https://example.com/publication/conference-paper/yang2022sagda/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/yang2022sagda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Communication and Sample Complexities in Decentralized Policy Evaluation for Cooperative Multi-Agent Reinforcement Learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2021taming/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021taming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GT-STORM: Taming sample, communication, and memory complexities in decentralized non-convex learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2021gt/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Sample and Communication Complexities in Decentralized Learning: A Triple Hybrid Approach</title>
+      <link>https://example.com/publication/conference-paper/zhang2021low/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Convergence for Asynchronous Stochastic Gradient Descent with Unbounded Delay in Non-Convex Learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2020taming/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2020taming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

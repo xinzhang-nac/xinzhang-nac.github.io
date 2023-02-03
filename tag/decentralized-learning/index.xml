@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decentralized Learning | xinzhang-nac</title>
+    <link>https://example.com/tag/decentralized-learning/</link>
+      <atom:link href="https://example.com/tag/decentralized-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Decentralized Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Decentralized Learning</title>
+      <link>https://example.com/tag/decentralized-learning/</link>
+    </image>
+    
+    <item>
+      <title>INTERACT: Achieving Low Sample and Communication Complexities in Decentralized Bilevel Learning over Networks</title>
+      <link>https://example.com/publication/conference-paper/liu2022interact/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022interact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NET-FLEET: Achieving linear convergence speedup for fully decentralized federated learning with heterogeneous data</title>
+      <link>https://example.com/publication/conference-paper/zhang2022net/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2022net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNTHESIS: A semi-asynchronous path-integrated stochastic gradient method for distributed learning in computing clusters</title>
+      <link>https://example.com/publication/conference-paper/liu2022synthesis/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GT-STORM: Taming sample, communication, and memory complexities in decentralized non-convex learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2021gt/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Sample and Communication Complexities in Decentralized Learning: A Triple Hybrid Approach</title>
+      <link>https://example.com/publication/conference-paper/zhang2021low/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private and communication-efficient edge learning: a sparse differential gaussian-masking distributed SGD approach</title>
+      <link>https://example.com/publication/conference-paper/zhang2020private/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2020private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed distributed gradient descent: Communication-efficient consensus over networks</title>
+      <link>https://example.com/publication/conference-paper/zhang2019compressed/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2019compressed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

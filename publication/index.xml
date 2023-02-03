@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | xinzhang-nac</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Learning Coefficient Heterogeneity over Networks: A Distributed Spanning-Tree-Based Fused-Lasso Regression</title>
+      <link>https://example.com/publication/journal-article/zhang2022learning/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/zhang2022learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTERACT: Achieving Low Sample and Communication Complexities in Decentralized Bilevel Learning over Networks</title>
+      <link>https://example.com/publication/conference-paper/liu2022interact/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022interact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NET-FLEET: Achieving linear convergence speedup for fully decentralized federated learning with heterogeneous data</title>
+      <link>https://example.com/publication/conference-paper/zhang2022net/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2022net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNTHESIS: A semi-asynchronous path-integrated stochastic gradient method for distributed learning in computing clusters</title>
+      <link>https://example.com/publication/conference-paper/liu2022synthesis/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/liu2022synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGDA: Achieving O(ε−2) Communication Complexity in Federated Min-Max Learning</title>
+      <link>https://example.com/publication/conference-paper/yang2022sagda/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/yang2022sagda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anarchic Federated Learning</title>
+      <link>https://example.com/publication/conference-paper/yang2022anarchic/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/yang2022anarchic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Sparsity Learning over Networks: A Decentralized Surrogate Median Regression Approach</title>
+      <link>https://example.com/publication/journal-article/liu2022fast/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/liu2022fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Communication and Sample Complexities in Decentralized Policy Evaluation for Cooperative Multi-Agent Reinforcement Learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2021taming/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021taming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GT-STORM: Taming sample, communication, and memory complexities in decentralized non-convex learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2021gt/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Sample and Communication Complexities in Decentralized Learning: A Triple Hybrid Approach</title>
+      <link>https://example.com/publication/conference-paper/zhang2021low/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2021low/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taming Convergence for Asynchronous Stochastic Gradient Descent with Unbounded Delay in Non-Convex Learning</title>
+      <link>https://example.com/publication/conference-paper/zhang2020taming/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2020taming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private and communication-efficient edge learning: a sparse differential gaussian-masking distributed SGD approach</title>
+      <link>https://example.com/publication/conference-paper/zhang2020private/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2020private/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive multi-hierarchical signSGD for communication-efficient distributed optimization</title>
+      <link>https://example.com/publication/conference-paper/yang2020adaptive/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/yang2020adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Byzantine-resilient stochastic gradient descent for distributed learning: A lipschitz-inspired coordinate-wise median approach</title>
+      <link>https://example.com/publication/conference-paper/yang2019byzantine/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/yang2019byzantine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed distributed gradient descent: Communication-efficient consensus over networks</title>
+      <link>https://example.com/publication/conference-paper/zhang2019compressed/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/zhang2019compressed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial CUSUM for Signal Region Detection</title>
+      <link>https://example.com/publication/preprint/zhang2019spatial/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/zhang2019spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drug–target interaction prediction by integrating multiview network data</title>
+      <link>https://example.com/publication/journal-article/zhang2017drug/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/zhang2017drug/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Electricity consumer archetypes study based on functional data analysis and K-means algorithm</title>
+      <link>https://example.com/publication/journal-article/xin2015electricity/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/xin2015electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/untitled-folder/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/untitled-folder/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/_template/</link>
+      <pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/_template/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/untitled-folder/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/untitled-folder/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
