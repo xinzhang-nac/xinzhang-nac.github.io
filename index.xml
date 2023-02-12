@@ -251,6 +251,15 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Distributed Algorithms for Machine Learning </title>
+      <link>https://example.com/project/distributed_learning/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/distributed_learning/</guid>
+      <description>&lt;p&gt;Distribued learning algorithms work with the system formed by a group of computational nodes, each of which can locally store the data and pass the message in the system. The goal of these algorithm is to train a global learning model based on all nodes’ data through local computation and neighboring communication. Current distributed learning methods suffer from 1) high sample complexity due to the large local datasets; 2) inefficient communication caused by the low network bandwidth and complex model structure; 3) significant loss of data privacy when untrustable nodes exist; 4) unstable performance due to the asynchronous and byzantine nodes. Our work focuses on designing decentralized algorithms that can overcome these problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Private and communication-efficient edge learning: a sparse differential gaussian-masking distributed SGD approach</title>
       <link>https://example.com/publication/conference-paper/zhang2020private/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
@@ -378,7 +387,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-746825193&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-854269317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -388,7 +397,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-746825193&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-854269317&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

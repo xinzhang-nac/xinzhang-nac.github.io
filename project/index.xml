@@ -5,12 +5,21 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Distributed Algorithms for Machine Learning </title>
+      <link>https://example.com/project/distributed_learning/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/distributed_learning/</guid>
+      <description>&lt;p&gt;Distribued learning algorithms work with the system formed by a group of computational nodes, each of which can locally store the data and pass the message in the system. The goal of these algorithm is to train a global learning model based on all nodes’ data through local computation and neighboring communication. Current distributed learning methods suffer from 1) high sample complexity due to the large local datasets; 2) inefficient communication caused by the low network bandwidth and complex model structure; 3) significant loss of data privacy when untrustable nodes exist; 4) unstable performance due to the asynchronous and byzantine nodes. Our work focuses on designing decentralized algorithms that can overcome these problems.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>R Package: FlightScanner</title>
