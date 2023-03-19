@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data</title>
+      <link>https://example.com/publication/journal-article/wang2023clustered/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/wang2023clustered/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Coefficient Heterogeneity over Networks: A Distributed Spanning-Tree-Based Fused-Lasso Regression</title>
       <link>https://example.com/publication/journal-article/zhang2022learning/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
@@ -387,7 +395,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-854269317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-245386971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -397,7 +405,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-854269317&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-245386971&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

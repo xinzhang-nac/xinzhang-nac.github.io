@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sparse Learning | xinzhang-nac</title>
-    <link>https://example.com/tag/sparse-learning/</link>
-      <atom:link href="https://example.com/tag/sparse-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sparse Learning</description>
+    <title>Clustered Coefficient Regression | xinzhang-nac</title>
+    <link>https://example.com/tag/clustered-coefficient-regression/</link>
+      <atom:link href="https://example.com/tag/clustered-coefficient-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clustered Coefficient Regression</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Sparse Learning</title>
-      <link>https://example.com/tag/sparse-learning/</link>
+      <title>Clustered Coefficient Regression</title>
+      <link>https://example.com/tag/clustered-coefficient-regression/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://example.com/publication/journal-article/wang2023clustered/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/journal-article/wang2023clustered/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast and Robust Sparsity Learning over Networks: A Decentralized Surrogate Median Regression Approach</title>
-      <link>https://example.com/publication/journal-article/liu2022fast/</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/liu2022fast/</guid>
       <description></description>
     </item>
     
