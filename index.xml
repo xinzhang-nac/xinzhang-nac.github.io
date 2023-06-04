@@ -81,7 +81,7 @@
     </item>
     
     <item>
-      <title>Anarchic Federated Learning</title>
+      <title>Anarchic federated learning</title>
       <link>https://example.com/publication/conference-paper/yang2022anarchic/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/conference-paper/yang2022anarchic/</guid>
@@ -315,7 +315,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-371985246&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-124386579&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -325,7 +325,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-371985246&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-124386579&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

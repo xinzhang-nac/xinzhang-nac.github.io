@@ -5,20 +5,12 @@
     <link>https://example.com/tag/stochastic-gradient-descent/</link>
       <atom:link href="https://example.com/tag/stochastic-gradient-descent/index.xml" rel="self" type="application/rss+xml" />
     <description>Stochastic Gradient Descent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Stochastic Gradient Descent</title>
       <link>https://example.com/tag/stochastic-gradient-descent/</link>
     </image>
-    
-    <item>
-      <title>Anarchic Federated Learning</title>
-      <link>https://example.com/publication/conference-paper/yang2022anarchic/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/yang2022anarchic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Adaptive multi-hierarchical signSGD for communication-efficient distributed optimization</title>
