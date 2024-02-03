@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>ELSA: Efficient Label Shift Adaptation through the Lens of Semiparametric Models</title>
+      <link>https://example.com/publication/conference-paper/tian2023elsa/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/tian2023elsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SYNTHESIS: A semi-asynchronous path-integrated stochastic gradient method for distributed learning in computing clusters</title>
       <link>https://example.com/publication/conference-paper/liu2022synthesis/</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
